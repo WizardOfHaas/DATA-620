@@ -2,7 +2,6 @@ import { Operation } from "../operation"
 import { binToDec, decToBin } from "../../util"
 import { State } from "../../state"
 
-
 type TSingleWorkNonAddressingArgs = {
     class: number
     op: number
